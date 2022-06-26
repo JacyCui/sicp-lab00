@@ -5,5 +5,5 @@ def twenty_twenty():
     >>> twenty_twenty()
     2020
     """
-    return 2020
+    return 2020 # 嘻嘻, 就是这么简单干脆
 
