@@ -1,7 +1,5 @@
 # Lab 00 Getting Started
 
-
-
 > The handout is adapted from cs61a 2020fall.
 
 
@@ -39,6 +37,14 @@ Get your starter file by cloning the repository: https://github.com/JacyCui/sicp
 ```shell
 git clone https://github.com/JacyCui/sicp-lab00.git
 ```
+
+`lab00.zip` is the starter file you need, you might need to unzip the file to get the skeleton code.
+
+```shell
+unzip lab00.zip
+```
+
+`README.md` is the handout for this lab. `solution` is a probrab solution the the lab. However, I might not give my solution exactly when the lab or homework is posted. You need to finish the task on your own first. If any problems occurs, please make use of the comment section.
 
 > Please make a new directory for sicp, your directory tree may end up like this:
 >
